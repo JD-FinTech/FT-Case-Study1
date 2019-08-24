@@ -22,10 +22,11 @@ Repository for homework 1
 
  ## Quotes
  Code Snippets:
- ''' python
+ ```python
  print ("Hello World")
- ...
+ ```
 
  Quotes
- WIth Great power, comes great responsibility
- 
+ >With great power, comes great responsibility
+
+ Test version 2
